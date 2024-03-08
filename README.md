@@ -52,12 +52,6 @@ Who must be contacted for any question related to this service?
 
 <li> Ansible vault
 
-<li> Ansible service and handlers
-
-<li> Ansible rolling updates
-
-<li> Ansible roles
-
  
 
 **Terraform**:
